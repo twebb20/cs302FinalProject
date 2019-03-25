@@ -1,0 +1,13 @@
+Bryceton G. Bible Milestones
+
+Week 1:
+        Rubric 1: 
+        - Set up Unity project with collaboration (10 points)
+        - Set up first level and player (10 points)
+        - Set up basic player/camera controls (10 points)
+        - Implement menu functionaity (10 points)
+        
+        Accomplished:
+        -3/14/2019: I set up our spreadsheets and documents to track work to do, progress, time spent, etc (20min)
+        -3/25/2019: I acquired our trial of Unity Pro so we can use all collaboration features, and set up the project (37 minutes)
+        -3/25/2019: I set up the Unity project, implemented a basic main menu with functioning buttons, began the layout of level 1, with functional character physics, and added controls to the character, with a following camera. (103min)
