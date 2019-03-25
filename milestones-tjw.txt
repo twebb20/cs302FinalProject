@@ -1,0 +1,12 @@
+Tyler J. Webb Milestones
+
+Week 1:
+    Rubric 1:
+    - Install and set up Unity on Machines (10 Points)
+    - Become familiar with Unity UI and how it operates (10 Points)
+    - Begin Learning C# syntax and the differences it has with c++ (at least 1-2 hrs) (10 points)
+    - Begin work on basic game concept (i.e. player, basic controls, main menu) (10 points)
+    
+    Accomplished:
+    - On 3/25 I installed unity and joined the team in order to begin working on the project (2 hrs)
+    -
