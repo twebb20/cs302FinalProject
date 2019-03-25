@@ -1,7 +1,10 @@
 Bryceton G. Bible Milestones
+https://github.com/twebb20/cs302FinalProject
+Summary:
+Over this period (beginning to now) I have set up the logistical documents (todo sheet, time tracking sheet, shared folder) etc. I acquired a trial of the premium version of Unity Teams so we can collaborate easily. In Unity, I have set up the main menu (it's not finished yet) and added menu button functionality. I have additionally added a character (controls need tweaking). I added controls to the character. I also added basic physics to the camera. I added a following camera with offset and added basic placeholder graphics. Rubric one is complete: Unity with collaboration, player and first level have been set up, player controls added, camera set to follow, and basic menu functionality is good now.
 
 Week 1:
-        Rubric 1: 
+        Rubric 1: (this week) 
         - Set up Unity project with collaboration (10 points)
         - Set up first level and player (10 points)
         - Set up basic player/camera controls (10 points)
@@ -11,3 +14,11 @@ Week 1:
         -3/14/2019: I set up our spreadsheets and documents to track work to do, progress, time spent, etc (20min)
         -3/25/2019: I acquired our trial of Unity Pro so we can use all collaboration features, and set up the project (37 minutes)
         -3/25/2019: I set up the Unity project, implemented a basic main menu with functioning buttons, began the layout of level 1, with functional character physics, and added controls to the character, with a following camera. (103min)
+        
+        Rubric 2: (next week)
+        - Add interaction with elements in levels (doors, etc) (20 points)
+        - Add 2-3 more levels (10 points)
+        - Add different materials (e.g. bouncy, slidy, fire, etc) (10 points)
+        
+        
+ 
