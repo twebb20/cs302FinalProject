@@ -1,0 +1,20 @@
+Name: Mark Alexander Lee
+Github Repository: https://github.com/twebb20/cs302FinalProject
+
+Rubric:
+	- Install Unity software, join GitHub repo with other team members, and 
+	  connect with team members on Unity platform (5 points)
+	- Learn how to write C# scripts in Unity, and how to utilize Unity
+	  functionality to make our game (10 points)
+	- Meet with team members at least once to collaborate more effectively
+	  and streamline process (10 points)
+	- Start development of game logic and graphics. More specifically, 
+	  facilitate movement and interactions of game elements (such as the
+	  player with doors, moving parts, etc.) (15 points)
+
+Benchmarks:
+	- In lab on Monday (3-25-19), I downloaded Unity on my laptop and joined 
+	  the GitHub repo, and began playing around with the Unity software. I 
+	  watched some tutorials on Youtube on how to create and manipulate 
+	  objects in the game. I also communicated with my team members, in the
+	  other section, about meeting with them on Thursday at 5. (2 hours).
