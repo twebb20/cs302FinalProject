@@ -9,4 +9,5 @@ Week 1:
     
     Accomplished:
     - On 3/25 I installed unity and joined the team in order to begin working on the project (2 hrs)
-    -
+    - On 3/27 I spent about 4 hours watching videos and working on tutorials to get used to Unity and C# scripting (4 hrs)
+    - Over the week me and my group have implemented basic concepts including basic physics and controls for the player, and platforms for the game. (2 hrs) 
