@@ -1,20 +1,52 @@
 Name: Mark Alexander Lee
 Github Repository: https://github.com/twebb20/cs302FinalProject
 
+NOTICE: Unfortunately since our project team is using Unity we don't have our
+code on Github because it's quite difficult to compile. Our TA said it's alright
+to submit this project without that code since this is the case!
+
 Rubric:
 	- Install Unity software, join GitHub repo with other team members, and 
 	  connect with team members on Unity platform (5 points)
 	- Learn how to write C# scripts in Unity, and how to utilize Unity
 	  functionality to make our game (10 points)
-	- Meet with team members at least once to collaborate more effectively
-	  and streamline process (10 points)
-	- Start development of game logic and graphics. More specifically, 
-	  facilitate movement and interactions of game elements (such as the
-	  player with doors, moving parts, etc.) (15 points)
+	- Meet with team members at least once to solidify game plan, schedule 
+	  work load, and overall collaborate more effectively to streamline 
+	  the development process (10 points)
+	- My compliable task is to start development of game terrain and animations. 
+	  More specifically, I should begin working on Level 2 (the others are
+	  working on Level 1) and learn to manipulate movement and interactions of 
+	  game elements (such as the player with doors, moving parts, etc.) (15 points)
 
-Benchmarks:
+Time Log:
 	- In lab on Monday (3-25-19), I downloaded Unity on my laptop and joined 
 	  the GitHub repo, and began playing around with the Unity software. I 
 	  watched some tutorials on Youtube on how to create and manipulate 
 	  objects in the game. I also communicated with my team members, in the
-	  other section, about meeting with them on Thursday at 5. (2 hours).
+	  other section, about meeting with them on Thursday at 5. (2 hours 10 minutes)
+	- In class on Thursday (3-28-19), I created level 2 and completed a lot of work
+	  on the terrain. I also began researching how to animate lava and water, and
+	  the C# logic required to make our 2D player "die" when he hits the lava.
+	  (1 hour 40 minutes)
+	- At 5:15 pm on Thursday I met with Bryce and Tyler in the Library to collectively
+	  confirm our game plan and set up reasonable benchmarks. After we did so, I worked
+	  on a problem Bryce was having with the cloud physics (our player is supposed to
+	  jump on a moving cloud and move with it, but he kept sliding off). I managed to get
+	  it partially fixed, but still need to work on the friction. When our meeting ended
+	  we organized a future date to meet and agreed to put in work individually over the 
+	  next couple days. (2 hours 20 minutes)
+
+Time Total: 6 hours 10 minutes
+
+Summary:
+	I sucessfully met all of the rubric benchmarks for this week to a good extent. This 
+challenge went well, because I learned a lot about Unity and our group made great progress
+on our game. Thankfully Unity is fairly user-friendly, and the C# scripts are pretty easy
+if you learn the syntax and know how to read the documentation of Unity functions. Tyler
+and Bryce are really great teammates, and we work really well together. I honestly think
+our game is going to be really good! We plan on having a fully-functioning 2D Mario-style
+adventure game with at least 5 levels, enemies and armor and weapons, a simple shop system,
+a working menu, good graphics and music/sound effects, and finally a good usage of a data
+structure we have used in class! Right now we are hypothesizing using disjoint sets for
+the player's items and armor, or a max heap to store high scores. Our plan is to have this
+data structure implemented by the end of next week, along with at least 2 complete levels.
