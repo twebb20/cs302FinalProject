@@ -1,4 +1,5 @@
 Tyler J. Webb Milestones
+Git Repo: https://github.com/twebb20/cs302FinalProject
 
 Week 1:
     Rubric 1:
@@ -10,4 +11,10 @@ Week 1:
     Accomplished:
     - On 3/25 I installed unity and joined the team in order to begin working on the project (2 hrs)
     - On 3/27 I spent about 4 hours watching videos and working on tutorials to get used to Unity and C# scripting (4 hrs)
-    - Over the week me and my group have implemented basic concepts including basic physics and controls for the player, and platforms for the game. (2 hrs) 
+    - Over the week me and my group have implemented basic concepts including basic physics and controls for the player, and platforms for the game. (2 hrs)
+    - On 3/28 I met with my group to discuss what the goals are for our game in order to help plan for future development. (1 hr)
+    - On 3/28 and 3/29 I spent time refactoring some things such as prefabs to help the development of the game in the future. (2 hrs)
+    
+    Total Time:  11 Hours
+    
+    Summary: Over the course of the week, I became very acquainted with the Unity UI and how the game engine itself works. I began work along with my teammates developing player movement, spawn control, level design, a main menu, and basic scoring scripts. We met on 3/28 to discuss what we wanted to do for the future of the game and continue to update our TODO google doc to progress through the build.
