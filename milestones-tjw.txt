@@ -1,6 +1,8 @@
 Tyler J. Webb Milestones
 Git Repo: https://github.com/twebb20/cs302FinalProject
 
+NOTE: Since we are working on Unity Teams, submitting a compilable task without the engine is very hard. Brent told us to demo what we have on Monday.
+
 Week 1:
     Rubric 1:
     - Install and set up Unity on Machines (10 Points)
